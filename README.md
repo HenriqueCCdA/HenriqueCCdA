@@ -1,4 +1,4 @@
-## Teste
+## 
 <a href="https://github.com/HenriqueCCdA">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenriqueCCdA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueCCdA&layout=compact&langs_count=8&theme=dark"/>
