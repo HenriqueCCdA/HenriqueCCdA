@@ -1,4 +1,9 @@
-## 
+##
+Olá, eu sou Henrique Conde Carvalho de Andrade,
+
+Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacianal** na Engenharia Civil também pela na **COPPE/UFRJ**. Eu trabalho na área de desenvolvimento de software de alto desempenho em modelos númericos na **COPPE/UFRJ** desde **2010**. 
+
+
 <a href="https://github.com/HenriqueCCdA">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenriqueCCdA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueCCdA&layout=compact&langs_count=10&theme=tokyonight"/>
