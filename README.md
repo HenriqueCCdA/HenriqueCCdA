@@ -2,7 +2,7 @@
 
 Olá, eu sou Henrique Conde Carvalho de Andrade, 🌀
 
-Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacianal** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalho na área de desenvolvimento de software de alto desempenho em modelos númericos na **COPPE/UFRJ** desde **2010**. 
+Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacianal** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos númericos na **COPPE/UFRJ** no periodo de **2010** a **2020**. 
 
 ---
 
