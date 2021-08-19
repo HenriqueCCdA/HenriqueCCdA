@@ -23,4 +23,4 @@ Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfrX4hhw0KfempvQTIq6H2A)
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-green)](https://www.researchgate.net/profile/Henrique-De-Andrade)
 [![Lattes Badge](https://img.shields.io/badge/-Lattes-yellowgreen)](http://lattes.cnpq.br/5907866250875091)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/henrique-conde-carvalho-de-andrade-a2021232/?originalSubdomain=br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/henriqueCCdA)
