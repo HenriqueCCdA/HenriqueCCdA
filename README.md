@@ -1,8 +1,15 @@
 ## 
 
-Olá, eu sou Henrique Conde Carvalho de Andrade, 🌀
+🌀 Olá, eu sou Henrique Conde Carvalho de Andrade,
 
-Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacianal** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos númericos na **COPPE/UFRJ** no periodo de **2010** a **2020**. 
+⚔️ Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacianal** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos númericos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralização utilizando o padão **MPI** e **OpenMP**.
+
+📈 Estudo Ciência de Dados desde de 2018. Meu principal interesse está na parte de Machine learning e seu algoritimos.
+
+🐉 Eu estudo desde de 2021 Python/Danjo.
+
+🔱 Eu tenho interesse em quase qualquer assunto relacionado a linguagem de programa. O meu GitHub é a prova disso, em termos de linguagens, aqui você irá encontrar de Fortran à JavaScript. Porém as linguagens que eu tenho mais conhecimento são **C**, **Fortran** e **Python**. 
+
 
 ---
 
@@ -24,3 +31,4 @@ Sou formado **Engenharia Ambiental** na **UFRJ**. Eu fiz Mestrado e Doutorado em
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-green)](https://www.researchgate.net/profile/Henrique-De-Andrade)
 [![Lattes Badge](https://img.shields.io/badge/-Lattes-yellowgreen)](http://lattes.cnpq.br/5907866250875091)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/henriqueCCdA)
+[<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](henrique.ccda@gmail.com)
