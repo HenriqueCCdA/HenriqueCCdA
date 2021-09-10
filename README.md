@@ -2,7 +2,7 @@
 
 🌀 Olá, eu sou Henrique Conde Carvalho de Andrade,
 
-⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralização utilizando o padrão **MPI** e **OpenMP**.
+⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
 
 📈 Estudo Ciência de Dados desde 2018. Meu principal interesse está na parte de Machine learning e seus algoritmos.
 
