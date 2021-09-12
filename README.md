@@ -6,7 +6,7 @@
 
 📈 Estudo Ciência de Dados desde 2018. Meu principal interesse está na parte de Machine learning e seus algoritmos.
 
-🐉 Eu estudo Python/Django desde 2021.
+🐉 Eu estudo Django framework desde 2021.
 
 🔱 Eu tenho interesse em quase qualquer assunto relacionado a linguagem de programa. O meu GitHub é a prova disso, em termos de linguagens, aqui você irá encontrar de Fortran à JavaScript. Porém as linguagens que eu tenho mais conhecimento são **C**, **Fortran** e **Python**. 
 
