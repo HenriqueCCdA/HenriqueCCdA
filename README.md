@@ -2,6 +2,7 @@
 
 🌀 Olá, eu sou Henrique Conde Carvalho de Andrade,
 
+
 ⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
 
 📈 Estudo Ciência de Dados desde 2018. Meu principal interesse está na parte de Machine learning e seus algoritmos.
@@ -32,3 +33,5 @@
 [![Lattes Badge](https://img.shields.io/badge/-Lattes-yellowgreen)](http://lattes.cnpq.br/5907866250875091)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/henriqueCCdA)
 [<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](henrique.ccda@gmail.com)
+  
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=henriqueCCdA&repo=henriqueCCdA&countColorcountColor&countColor=%237B1E7A)
