@@ -1,8 +1,8 @@
 ## 
 
+<img align="right" alt="GIF" src="https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif?raw=true" width="400" height="320" />
+
 🌀 Olá, eu sou Henrique Conde Carvalho de Andrade, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
-
 
 ⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
 
@@ -14,7 +14,6 @@
 
 
 ---
-
 <a href="https://github.com/HenriqueCCdA">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenriqueCCdA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueCCdA&layout=compact&langs_count=10&theme=tokyonight"/>
