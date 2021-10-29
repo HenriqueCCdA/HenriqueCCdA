@@ -1,6 +1,6 @@
 ## 
 
-<img align="right" alt="GIF" src="https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif?raw=true" width="420" height="360" />
 
 🌀 Olá, eu sou Henrique Conde Carvalho de Andrade, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
