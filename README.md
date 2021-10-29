@@ -1,7 +1,8 @@
 ## 
 
-🌀 Olá, eu sou Henrique Conde Carvalho de Andrade,
+🌀 Olá, eu sou Henrique Conde Carvalho de Andrade, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
+![](https://visitor-badge.glitch.me/badge?page_id=HenriqueCCdA.HenriqueCCdA)
 
 ⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
 
@@ -35,3 +36,4 @@
 [<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](henrique.ccda@gmail.com)
   
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=henriqueCCdA&repo=henriqueCCdA&countColorcountColor&countColor=%237B1E7A)
+
