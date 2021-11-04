@@ -1,5 +1,7 @@
 ## 
 
+<img align="right" alt="GIF" src="https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif?raw=true" width="180" height="180" />
+
 🌀 Olá, eu sou Henrique Conde Carvalho de Andrade, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
@@ -10,16 +12,19 @@
 
 🔱 Eu tenho interesse em quase qualquer assunto relacionado a linguagem de programa. O meu GitHub é a prova disso, em termos de linguagens, aqui você irá encontrar de Fortran à JavaScript. Porém as linguagens que eu tenho mais conhecimento são **C**, **Fortran** e **Python**. 
 
-
 ---
-
-<img align="right" alt="GIF" src="https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif?raw=true" width="400" height="300" />
-<img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenriqueCCdA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-<img height="200"  width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueCCdA&layout=compact&langs_count=10&theme=tokyonight"/>
-
----
+## Github Stats: 
+<div>
+<a href="https://github.com/HenriqueCCdA">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCCdA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCCdA&layout=compact&langs_count=4&theme=tokyonight"/>
+  
+</div>
 
 ---  
+## Tecnologias: 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Hen-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Hen-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
