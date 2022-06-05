@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/HenriqueCCdA/HenriqueCCdA/blob/main/code.gif?raw=true" width="180" height="180" />
 
-🌀 Olá, eu sou Henrique Conde Carvalho de Andrade, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+🌀 Olá, eu sou Henrique Conde Carvalho de Andrade, 
 
 ⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
 
