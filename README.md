@@ -6,7 +6,7 @@
 
 ⚔️ Sou formado **Engenharia Ambiental** pela **UFRJ**. Eu fiz Mestrado e Doutorado em **Mecânica Computacional** na Engenharia Civil na **COPPE/UFRJ**. Eu trabalhei na área de desenvolvimento de software de alto desempenho em modelos numéricos na **COPPE/UFRJ** no periodo de **2010** a **2020**. Tenho conhecimento de paralelização utilizando o padrão **MPI** e **OpenMP**.
 
-🐉 Atualmente eu estudo desenvolvimento Web usando o ecossitema Python. Tenho conhecimento no framework Django. Gosto de escrever testes automaticos e sempre que possível tento aplicar o TDD.
+🐉 Atualmente eu trabalho com desenvolvimento Web usando o ecossitema Python. Tenho conhecimento no framework Django e Django Rest Framework. Gosto de escrever testes automaticos e sempre que possível tento aplicar o TDD.
 
 📈 Estudo Ciência de Dados desde 2018. Meu principal interesse está na parte de Machine learning e seus algoritmos.
 
