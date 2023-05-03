@@ -85,6 +85,3 @@
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-green)](https://www.researchgate.net/profile/Henrique-De-Andrade)
 [![Lattes Badge](https://img.shields.io/badge/-Lattes-yellowgreen)](http://lattes.cnpq.br/5907866250875091)
 ---
-  
-![](https://visitor-badge.glitch.me/badge?page_id=HenriqueCCdA.HenriqueCCdA)
-
